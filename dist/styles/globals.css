@@ -1,0 +1,22 @@
+:root {
+  font-size: 62.5%;
+}
+
+html {
+  scroll-behavior: smooth;
+  font-family: var(--fontSans);
+  -moz-osx-font-smoothing: grayscale;
+  color: var(--dark);
+  background-color: var(--white);
+}
+
+@media (prefers-color-scheme: dark) {
+  html {
+    background-color: var(--dark);
+    color: var(--white);
+  }
+}
+
+body {
+  margin: 0;
+}

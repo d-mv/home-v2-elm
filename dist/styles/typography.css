@@ -1,0 +1,35 @@
+:root {
+  --h1: normal 300 2rem var(--fontSans);
+}
+
+h2 {
+  font: normal 400 1.8rem var(--fontSans);
+}
+
+h3 {
+  font: normal 500 2.6rem var(--fontSans);
+}
+
+p {
+  font: normal 300 1.5rem var(--fontSerif);
+}
+
+.contact {
+  font: normal 300 1.8rem var(--fontSans);
+}
+
+.link {
+  font: normal 300 1.2rem var(--fontSans);
+}
+
+.textButton {
+  font: italic 300 1.3rem var(--fontSerif);
+}
+
+.title {
+  font: normal 400 1.8rem var(--fontSerif);
+}
+
+.location {
+  font: italic 300 1.6rem var(--fontSans);
+}

@@ -1,0 +1,11 @@
+:root {
+  --shadow: 0 0.5rem 1rem 0.5rem var(--darkShadow);
+  --shadowDM: 0 0.5rem 1rem 0.5rem var(--darkShadowDM);
+  --shadowActive: 0 0.3rem 0.8rem 0.5rem var(--dark30);
+  --shadowActiveDM: 0 0.3rem 0.8rem 0.5rem var(--dark30DM);
+  --shadowHover: 0 0.3rem 2rem 0.5rem var(--dark30);
+  --textShadow: 0 0.1rem 0.1rem var(--darkShadow);
+  --textShadowDM: 0 0.1rem 0.1rem var(--darkShadowDM);
+  --shadowPlank: 0 0.1rem 0.5rem 0.1rem var(--darkShadow);
+  --shadowPlankDM: 0 0.1rem 0.5rem 0.1rem var(--darkShadowDM);
+}

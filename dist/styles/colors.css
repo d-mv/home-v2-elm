@@ -1,0 +1,15 @@
+:root {
+  --white: rgb(247, 247, 247);
+  --whiteTrans: rgba(247, 247, 247, 0.5);
+  --white80: rgba(247, 247, 247, 0.8);
+  --dark: #444;
+  --grey: #707070;
+  --darkShadow: rgba(68, 68, 68, 0.2);
+  --darkShadowDM: rgba(0, 0, 0, 0.2);
+  --dark30: rgba(68, 68, 68, 0.3);
+  --dark30DM: rgba(0, 0, 0, 0.3);
+  --black30: rgba(0, 0, 0, 0.3);
+  --darkModal: rgba(68, 68, 68, 0.9);
+  --accent: #fc8d01;
+  --lightGrey: #efefef;
+}
